@@ -8,10 +8,12 @@
 </p>
 
 ## About Economere-Shop
-Using to Laravel 5.7
-Orders
-Notification Email
-Using stripe for economere-shop
+<ul>
+    <li> Using to Laravel 5.7</li>
+    <li> Orders </li>
+    <li>Notification Email</li>
+    <li>Using stripe for economere-shop</li>
+</ul>
 
 ## License
 
